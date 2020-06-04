@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Impact_of_Screen_Rotation_on_Views_and_Variables.iml" filepath="$PROJECT_DIR$/Impact_of_Screen_Rotation_on_Views_and_Variables.iml" group="Impact_of_Screen_Rotation_on_Views_and_Variables" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Impact_of_Screen_Rotation_on_Views_and_Variables/app" />
+    </modules>
+  </component>
+</project>
